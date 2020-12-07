@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hospital Lab
+
+
+---
 # Hospital Lab
 
 ### Which county has the most hospital beds per person (regardless of bed type)?
